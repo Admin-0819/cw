@@ -1,0 +1,51 @@
+body{font-family:"微软雅黑","Arial Narrow",HELVETICA;margin:0 auto;padding:0;font-size:12px;}
+div,form,ul,ol,li,span,p,dl,dd,dt{margin:0;padding:0;border:0;}
+img,a img{border:0;margin:0;padding:0;}
+h1,h2,h3,h4,h5,h6{margin:0;padding:0;font-size:12px;font-weight:normal;}
+ul,ol,li{list-style:none}
+header{
+	width: 100%;
+	height: 0.74rem;
+	background: #0f91c5;
+	font-size: 0.33rem;
+	color: #fff;
+	line-height: 0.74rem;
+	text-align: center;
+}
+#main{
+	width: 100%;
+	text-align: center;
+}
+#main input{
+	width: 5.8rem;
+	height: 0.66rem;
+	font-size: 0.28rem;
+	margin-top: 0.18rem;
+	border: none;
+	outline: none;
+	border-bottom: 1px solid #7f7f7f;
+	
+}
+#btn{
+	width: 5.8rem;
+	margin: 0 auto;
+	margin-top: 0.5rem;
+	font-size: 0.28rem;
+}
+#btn a:nth-child(2){
+	float: right;
+}
+#footer{
+	width: 5.8rem;
+	height: 0.77rem;
+	background: #0f91c5;
+	text-align: center;
+	margin: 0 auto;
+	margin-top: 0.3rem;
+	font-size: 0.34rem;
+}
+#footer a{
+	text-decoration: none;
+	line-height: 0.77rem;
+	color: #FFF;
+}

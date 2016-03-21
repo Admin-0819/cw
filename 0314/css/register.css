@@ -1,0 +1,45 @@
+body{font-family:"微软雅黑","Arial Narrow",HELVETICA;text-align:center;margin:0 auto;padding:0;font-size:12px;}
+div,form,ul,ol,li,span,p,dl,dd,dt{margin:0;padding:0;border:0;}
+img,a img{border:0;margin:0;padding:0;}
+h1,h2,h3,h4,h5,h6{margin:0;padding:0;font-size:12px;font-weight:normal;}
+ul,ol,li{list-style:none}
+html,body{
+	max-width: 640px;
+	margin: 0 auto;
+}
+header{
+	width: 100%;
+	height: 0.74rem;
+	background:#0f91c5;
+	font-size: 0.34rem;
+	line-height: 0.74rem;
+	color:#fff;
+}
+#main{
+	width: 100%;
+}
+#main input{
+	width: 5.8rem;
+	height: 0.67rem;
+	font-size: : 0.28rem;
+	margin-top: 0.54rem;
+	outline:none;
+	border:none;
+	border-bottom: 1px solid #7f7f7f;
+}
+#main input:nth-child(1){
+	margin-top: 0.18rem;
+}
+#footer{
+	width: 5.8rem;
+	height: 0.77rem;
+	background:#0f91c5;
+	margin:0 auto;
+	margin-top: 0.4rem;
+}
+#footer a{
+	font-size: 0.34rem;
+	color:#FFF;
+	line-height: 0.77rem;
+	text-decoration: none;
+}
